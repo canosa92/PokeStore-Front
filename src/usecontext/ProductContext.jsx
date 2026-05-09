@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useState } from 'react';
-const apiUrl = "https://pokestore-back-5oqh.onrender.com";
+const apiUrl = "http://localhost:3000";
 
 const ProductContext = createContext();
 
